@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qjg0ecz11-java-springboot-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/qjg0ecz11-java-springboot-gitops
